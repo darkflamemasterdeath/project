@@ -1,0 +1,62 @@
+Date : 2023-08-15 16:28:32
+Directory : e:\mytest\项目\尚医通\project\syt
+Total : 18 files,  2661 codes, 27 comments, 69 blanks, all 2757 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |      2,191 |          0 |          3 |      2,194 |
+| Vue                |          7 |        194 |          4 |         25 |        223 |
+| SCSS               |          1 |        163 |          5 |         24 |        192 |
+| TypeScript         |          4 |         54 |         11 |          6 |         71 |
+| JSON with Comments |          1 |         35 |          7 |          0 |         42 |
+| HTML               |          1 |         13 |          0 |          3 |         16 |
+| Markdown           |          1 |         11 |          0 |          8 |         19 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                     |         18 |      2,661 |         27 |         69 |      2,757 |
+| . (Files)                                                             |          7 |      2,261 |          9 |         15 |      2,285 |
+| src                                                                   |         11 |        400 |         18 |         54 |        472 |
+| src (Files)                                                           |          3 |         48 |          5 |          7 |         60 |
+| src\components                                                        |          2 |         96 |          1 |          8 |        105 |
+| src\components\hospital_bottom                                        |          1 |         39 |          0 |          3 |         42 |
+| src\components\hospital_top                                           |          1 |         57 |          1 |          5 |         63 |
+| src\pages                                                             |          4 |         69 |          2 |         12 |         83 |
+| src\pages\Hospitals                                                   |          1 |          8 |          0 |          3 |         11 |
+| src\pages\home                                                        |          3 |         61 |          2 |          9 |         72 |
+| src\pages\home (Files)                                                |          1 |         18 |          2 |          2 |         22 |
+| src\pages\home\carousel                                               |          1 |         15 |          0 |          5 |         20 |
+| src\pages\home\search                                                 |          1 |         28 |          0 |          2 |         30 |
+| src\router                                                            |          1 |         24 |          5 |          3 |         32 |
+| src\style                                                             |          1 |        163 |          5 |         24 |        192 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                              | language           | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| e:\mytest\项目\尚医通\project\syt\README.md                                | Markdown           |         11 |          0 |          8 |         19 |
+| e:\mytest\项目\尚医通\project\syt\index.html                               | HTML               |         13 |          0 |          3 |         16 |
+| e:\mytest\项目\尚医通\project\syt\package-lock.json                        | JSON               |      2,156 |          0 |          1 |      2,157 |
+| e:\mytest\项目\尚医通\project\syt\package.json                             | JSON               |         25 |          0 |          1 |         26 |
+| e:\mytest\项目\尚医通\project\syt\src\App.vue                              | Vue                |         29 |          1 |          5 |         35 |
+| e:\mytest\项目\尚医通\project\syt\src\components\hospital_bottom\index.vue | Vue                |         39 |          0 |          3 |         42 |
+| e:\mytest\项目\尚医通\project\syt\src\components\hospital_top\index.vue    | Vue                |         57 |          1 |          5 |         63 |
+| e:\mytest\项目\尚医通\project\syt\src\main.ts                              | TypeScript         |         14 |          2 |          1 |         17 |
+| e:\mytest\项目\尚医通\project\syt\src\pages\Hospitals\index.vue            | Vue                |          8 |          0 |          3 |         11 |
+| e:\mytest\项目\尚医通\project\syt\src\pages\home\carousel\index.vue        | Vue                |         15 |          0 |          5 |         20 |
+| e:\mytest\项目\尚医通\project\syt\src\pages\home\index.vue                 | Vue                |         18 |          2 |          2 |         22 |
+| e:\mytest\项目\尚医通\project\syt\src\pages\home\search\index.vue          | Vue                |         28 |          0 |          2 |         30 |
+| e:\mytest\项目\尚医通\project\syt\src\router\index.ts                      | TypeScript         |         24 |          5 |          3 |         32 |
+| e:\mytest\项目\尚医通\project\syt\src\style\reset.scss                     | SCSS               |        163 |          5 |         24 |        192 |
+| e:\mytest\项目\尚医通\project\syt\src\vite-env.d.ts                        | TypeScript         |          5 |          2 |          1 |          8 |
+| e:\mytest\项目\尚医通\project\syt\tsconfig.json                            | JSON with Comments |         35 |          7 |          0 |         42 |
+| e:\mytest\项目\尚医通\project\syt\tsconfig.node.json                       | JSON               |         10 |          0 |          1 |         11 |
+| e:\mytest\项目\尚医通\project\syt\vite.config.ts                           | TypeScript         |         11 |          2 |          1 |         14 |
+| Total                                                                 |                    |      2,661 |         27 |         69 |      2,757 |
++-----------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

@@ -1,0 +1,20 @@
+"filename", "language", "JSON with Comments", "TypeScript", "JSON", "Vue", "SCSS", "HTML", "Markdown", "comment", "blank", "total"
+"e:\mytest\项目\尚医通\project\syt\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 11, 0, 8, 19
+"e:\mytest\项目\尚医通\project\syt\index.html", "HTML", 0, 0, 0, 0, 0, 13, 0, 0, 3, 16
+"e:\mytest\项目\尚医通\project\syt\package-lock.json", "JSON", 0, 0, 2156, 0, 0, 0, 0, 0, 1, 2157
+"e:\mytest\项目\尚医通\project\syt\package.json", "JSON", 0, 0, 25, 0, 0, 0, 0, 0, 1, 26
+"e:\mytest\项目\尚医通\project\syt\src\App.vue", "Vue", 0, 0, 0, 29, 0, 0, 0, 1, 5, 35
+"e:\mytest\项目\尚医通\project\syt\src\components\hospital_bottom\index.vue", "Vue", 0, 0, 0, 39, 0, 0, 0, 0, 3, 42
+"e:\mytest\项目\尚医通\project\syt\src\components\hospital_top\index.vue", "Vue", 0, 0, 0, 57, 0, 0, 0, 1, 5, 63
+"e:\mytest\项目\尚医通\project\syt\src\main.ts", "TypeScript", 0, 14, 0, 0, 0, 0, 0, 2, 1, 17
+"e:\mytest\项目\尚医通\project\syt\src\pages\Hospitals\index.vue", "Vue", 0, 0, 0, 8, 0, 0, 0, 0, 3, 11
+"e:\mytest\项目\尚医通\project\syt\src\pages\home\carousel\index.vue", "Vue", 0, 0, 0, 15, 0, 0, 0, 0, 5, 20
+"e:\mytest\项目\尚医通\project\syt\src\pages\home\index.vue", "Vue", 0, 0, 0, 18, 0, 0, 0, 2, 2, 22
+"e:\mytest\项目\尚医通\project\syt\src\pages\home\search\index.vue", "Vue", 0, 0, 0, 28, 0, 0, 0, 0, 2, 30
+"e:\mytest\项目\尚医通\project\syt\src\router\index.ts", "TypeScript", 0, 24, 0, 0, 0, 0, 0, 5, 3, 32
+"e:\mytest\项目\尚医通\project\syt\src\style\reset.scss", "SCSS", 0, 0, 0, 0, 163, 0, 0, 5, 24, 192
+"e:\mytest\项目\尚医通\project\syt\src\vite-env.d.ts", "TypeScript", 0, 5, 0, 0, 0, 0, 0, 2, 1, 8
+"e:\mytest\项目\尚医通\project\syt\tsconfig.json", "JSON with Comments", 35, 0, 0, 0, 0, 0, 0, 7, 0, 42
+"e:\mytest\项目\尚医通\project\syt\tsconfig.node.json", "JSON", 0, 0, 10, 0, 0, 0, 0, 0, 1, 11
+"e:\mytest\项目\尚医通\project\syt\vite.config.ts", "TypeScript", 0, 11, 0, 0, 0, 0, 0, 2, 1, 14
+"Total", "-", 35, 54, 2191, 194, 163, 13, 11, 27, 69, 2757
